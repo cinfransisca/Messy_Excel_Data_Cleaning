@@ -1,5 +1,5 @@
 # Messy_Excel_Data_Cleaning
-This repo shows how to make a function for cleaning messy excel data from the raw format to the clean format using pandas.
+This repo shows you how to make a function for cleaning messy excel data from the raw format to the clean format using pandas.
 <br>
 <br>
 ### The Raw Format:
